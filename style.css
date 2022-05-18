@@ -5,7 +5,7 @@ body {
   }
 
   .jumbotron {
-    background-image: url('bbb.jpg');
+    background-image: url('images/bbb.jpg');
     height:100%;
     background-size: 100% 100%;
     opacity: 1.0;
